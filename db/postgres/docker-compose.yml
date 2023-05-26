@@ -1,0 +1,14 @@
+# Use postgres/example user/password credentials
+version: '3.1'
+
+services:
+
+  tdd-postgres-local:
+    image: postgres
+    restart: always
+    container_name: tdd-postgres-local
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    ports:
+      - 5450:5432

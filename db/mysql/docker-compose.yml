@@ -1,0 +1,19 @@
+version: '3.3'
+services:
+  tdd-mysql-local:
+    image: mysql:8.0.32
+    restart: always
+    container_name: tdd-mysql-local
+    environment:
+      MYSQL_DATABASE: 'db'
+      MYSQL_USER: 'mysql'
+      MYSQL_PASSWORD: 'mysql'
+      MYSQL_ROOT_PASSWORD: 'mysql'
+    ports:
+      - '3310:3306'
+    expose:
+      - '3310'
+    volumes:
+      - my-db:/var/lib/mysql
+volumes:
+  my-db:

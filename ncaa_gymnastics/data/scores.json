@@ -1,0 +1,320 @@
+[
+  {
+    "schoolName": "UCLA",
+    "mascot": "Bruins",
+    "scores": [
+      {"score": 196.875, "home": true},
+      {"score": 198.225, "home": false},
+      {"score": 197.375, "home": true},
+      {"score": 195.775, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.525, "home": true},
+      {"score": 196.675, "home": false},
+      {"score": 197.875, "home": true},
+      {"score": 196.825, "home": false},
+      {"score": 198.525, "home": true},
+      {"score": 195.925, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 197.125, "home": false},
+      {"score": 198.175, "home": true},
+      {"score": 196.375, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Oklahoma",
+    "mascot": "Sooners",
+    "scores": [
+      {"score": 197.125, "home": true},
+      {"score": 198.225, "home": false},
+      {"score": 196.775, "home": true},
+      {"score": 197.375, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.925, "home": true},
+      {"score": 196.675, "home": false},
+      {"score": 198.425, "home": true},
+      {"score": 195.775, "home": false},
+      {"score": 197.875, "home": true},
+      {"score": 196.825, "home": false},
+      {"score": 198.525, "home": true},
+      {"score": 195.925, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 196.375, "home": false}
+    ]
+  },
+  {
+    "schoolName": "LSU",
+    "mascot": "Tigers",
+    "scores": [
+      {"score": 196.925, "home": true},
+      {"score": 197.125, "home": false},
+      {"score": 198.225, "home": true},
+      {"score": 196.775, "home": false},
+      {"score": 197.375, "home": true},
+      {"score": 198.075, "home": false},
+      {"score": 196.925, "home": true},
+      {"score": 197.925, "home": false},
+      {"score": 196.675, "home": true},
+      {"score": 198.425, "home": false},
+      {"score": 195.775, "home": true},
+      {"score": 197.875, "home": false},
+      {"score": 196.825, "home": true},
+      {"score": 198.525, "home": false},
+      {"score": 195.925, "home": true},
+      {"score": 197.725, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Florida",
+    "mascot": "Gators",
+    "scores": [
+      {"score": 197.725, "home": true},
+      {"score": 196.375, "home": false},
+      {"score": 197.125, "home": true},
+      {"score": 198.225, "home": false},
+      {"score": 196.775, "home": true},
+      {"score": 197.375, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.925, "home": true},
+      {"score": 196.675, "home": false},
+      {"score": 198.425, "home": true},
+      {"score": 195.775, "home": false},
+      {"score": 197.875, "home": true},
+      {"score": 196.825, "home": false},
+      {"score": 198.525, "home": true},
+      {"score": 195.925, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Alabama",
+    "mascot": "Crimson Tide",
+    "scores": [
+      {"score": 196.825, "home": true},
+      {"score": 198.525, "home": false},
+      {"score": 195.925, "home": true},
+      {"score": 197.725, "home": false},
+      {"score": 196.375, "home": true},
+      {"score": 197.125, "home": false},
+      {"score": 198.225, "home": true},
+      {"score": 196.775, "home": false},
+      {"score": 197.375, "home": true},
+      {"score": 198.075, "home": false},
+      {"score": 196.925, "home": true},
+      {"score": 197.925, "home": false},
+      {"score": 196.675, "home": true},
+      {"score": 198.425, "home": false},
+      {"score": 195.775, "home": true},
+      {"score": 197.875, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Michigan",
+    "mascot": "Wolverines",
+    "scores": [
+      {"score": 197.375, "home": true},
+      {"score": 195.775, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.525, "home": true},
+      {"score": 196.675, "home": false},
+      {"score": 197.875, "home": true},
+      {"score": 196.825, "home": false},
+      {"score": 198.525, "home": true},
+      {"score": 195.925, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 196.375, "home": false},
+      {"score": 197.125, "home": true},
+      {"score": 198.225, "home": false},
+      {"score": 196.775, "home": true},
+      {"score": 197.375, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Utah",
+    "mascot": "Utes",
+    "scores": [
+      {"score": 196.675, "home": true},
+      {"score": 197.875, "home": false},
+      {"score": 196.825, "home": true},
+      {"score": 198.525, "home": false},
+      {"score": 195.925, "home": true},
+      {"score": 197.725, "home": false},
+      {"score": 196.375, "home": true},
+      {"score": 197.125, "home": false},
+      {"score": 198.225, "home": true},
+      {"score": 196.775, "home": false},
+      {"score": 197.375, "home": true},
+      {"score": 198.075, "home": false},
+      {"score": 196.925, "home": true},
+      {"score": 197.525, "home": false},
+      {"score": 195.775, "home": true},
+      {"score": 198.075, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Georgia",
+    "mascot": "Bulldogs",
+    "scores": [
+      {"score": 195.775, "home": true},
+      {"score": 197.375, "home": false},
+      {"score": 196.675, "home": true},
+      {"score": 197.875, "home": false},
+      {"score": 196.825, "home": true},
+      {"score": 198.525, "home": false},
+      {"score": 195.925, "home": true},
+      {"score": 197.725, "home": false},
+      {"score": 196.375, "home": true},
+      {"score": 197.125, "home": false},
+      {"score": 198.225, "home": true},
+      {"score": 196.775, "home": false},
+      {"score": 197.375, "home": true},
+      {"score": 198.075, "home": false},
+      {"score": 196.925, "home": true},
+      {"score": 197.525, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Denver",
+    "mascot": "Pioneers",
+    "scores": [
+      {"score": 197.525, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.375, "home": true},
+      {"score": 196.675, "home": false},
+      {"score": 197.875, "home": true},
+      {"score": 196.825, "home": false},
+      {"score": 198.525, "home": true},
+      {"score": 195.925, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 197.125, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 196.375, "home": false},
+      {"score": 198.225, "home": true},
+      {"score": 195.775, "home": false},
+      {"score": 198.175, "home": true},
+      {"score": 197.275, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Arkansas",
+    "mascot": "Razorbacks",
+    "scores": [
+      {"score": 196.375, "home": true},
+      {"score": 197.125, "home": false},
+      {"score": 198.225, "home": true},
+      {"score": 196.775, "home": false},
+      {"score": 197.375, "home": true},
+      {"score": 198.075, "home": false},
+      {"score": 196.925, "home": true},
+      {"score": 197.925, "home": false},
+      {"score": 196.675, "home": true},
+      {"score": 198.425, "home": false},
+      {"score": 195.775, "home": true},
+      {"score": 197.875, "home": false},
+      {"score": 196.825, "home": true},
+      {"score": 198.525, "home": false},
+      {"score": 195.925, "home": true},
+      {"score": 197.725, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Minnesota",
+    "mascot": "Golden Gophers",
+    "scores": [
+      {"score": 197.875, "home": true},
+      {"score": 196.825, "home": false},
+      {"score": 198.525, "home": true},
+      {"score": 195.925, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 196.375, "home": false},
+      {"score": 197.125, "home": true},
+      {"score": 198.225, "home": false},
+      {"score": 196.775, "home": true},
+      {"score": 197.375, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.525, "home": true},
+      {"score": 196.675, "home": false},
+      {"score": 195.775, "home": true},
+      {"score": 198.075, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Missouri",
+    "mascot": "Tigers",
+    "scores": [
+      {"score": 197.275, "home": true},
+      {"score": 198.175, "home": false},
+      {"score": 197.875, "home": true},
+      {"score": 196.825, "home": false},
+      {"score": 198.525, "home": true},
+      {"score": 195.925, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 196.375, "home": false},
+      {"score": 197.125, "home": true},
+      {"score": 198.225, "home": false},
+      {"score": 196.775, "home": true},
+      {"score": 197.375, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.525, "home": true},
+      {"score": 196.675, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Iowa",
+    "mascot": "Hawkeyes",
+    "scores": [
+      {"score": 197.825, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 197.475, "home": true},
+      {"score": 196.575, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 195.975, "home": false},
+      {"score": 197.625, "home": true},
+      {"score": 196.725, "home": false},
+      {"score": 198.325, "home": true},
+      {"score": 195.875, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 196.825, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Auburn",
+    "mascot": "Tigers",
+    "scores": [
+      {"score": 196.925, "home": true},
+      {"score": 197.825, "home": false},
+      {"score": 195.975, "home": true},
+      {"score": 198.075, "home": false},
+      {"score": 196.575, "home": true},
+      {"score": 197.475, "home": false},
+      {"score": 196.725, "home": true},
+      {"score": 197.625, "home": false},
+      {"score": 195.875, "home": true},
+      {"score": 198.325, "home": false},
+      {"score": 196.825, "home": true},
+      {"score": 197.725, "home": false}
+    ]
+  },
+  {
+    "schoolName": "Oregon State",
+    "mascot": "Beavers",
+    "scores": [
+      {"score": 197.475, "home": true},
+      {"score": 196.725, "home": false},
+      {"score": 198.325, "home": true},
+      {"score": 195.875, "home": false},
+      {"score": 197.825, "home": true},
+      {"score": 196.925, "home": false},
+      {"score": 198.075, "home": true},
+      {"score": 195.975, "home": false},
+      {"score": 197.625, "home": true},
+      {"score": 196.575, "home": false},
+      {"score": 197.725, "home": true},
+      {"score": 196.825, "home": false}
+    ]
+  }
+]

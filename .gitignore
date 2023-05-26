@@ -1,0 +1,4 @@
+db/dynamodb/docker/
+.idea/
+*.pytest_cache/
+*__pycache__/

@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "tddtutorial"
+version = "0.1.0"
+description = ""
+authors = ["Clayton Kreisel <clayton.kreisel@equipmentshare.com>"]
+readme = "README.md"
+packages = [
+    { include = "ncaa_gymnastics" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^7.3.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poe.tasks]
+tests = 'pytest tests -vv'
+test = 'pytest -vv'
+start-postgres = 'docker compose -f ./db/postgres/docker-compose.yml up'
+start-dynamodb = 'docker compose -f ./db/dynamodb/docker-compose.yml up'
+start-mysql = 'docker compose -f ./db/mysql/docker-compose.yml up'
+start-mongodb = 'docker compose -f ./db/mongodb/docker-compose.yml up'
